@@ -1,0 +1,4 @@
+*_data/
+embedding_model/
+reranker/
+__pycache__
