@@ -24,7 +24,7 @@ IncidentNavigator est un système avancé alimenté par l'IA, conçu pour récup
 - **Recherche Vectorielle** : Weaviate
 - **Base de Données** : MongoDB
 - **Embeddings** : HuggingFace
-- **Modèle de Langage** : Groq LLaMA 3.3 70B
+- **Modèle de Langage** : LLaMA 3.3 70B
 - **Reclassement** : Flashrank
 - **Frameworks** : LangChain, Pydantic
 
